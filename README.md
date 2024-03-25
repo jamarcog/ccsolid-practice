@@ -1,4 +1,4 @@
-# Animal Information Console App
+# Exercise to practice the SOLID principles
 
 ## Description
 This codebase contains areas that can be improved by refactoring and applying SOLID principles. Your task is to refactor the code to adhere to as many SOLID principles as possible.
