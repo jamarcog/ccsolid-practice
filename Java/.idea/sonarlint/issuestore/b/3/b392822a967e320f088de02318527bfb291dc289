@@ -1,0 +1,9 @@
+
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(™­Âëşÿÿÿÿ8„Šûƒè1J$57236911-0b10-460a-b763-b533527daef0
+m	java:S106"+Replace this use of System.out by a logger.(´¥ ü8ˆŠûƒè1J$b879a551-268b-4d7b-9b7e-f95a78800754
+l	java:S106"+Replace this use of System.out by a logger.(Áå¼18ˆŠûƒè1J$afd5419a-b4ce-44bc-92ce-3d3534cf6cdb
+
+java:S4276&"[Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Float>'(‰³íÑ8´Á„è1J$087068c6-c813-4bc0-917f-22fd08a0ba1a
+–
+java:S1602&"SRemove useless curly braces around statement and then remove useless return keyword(‰³íÑ8‹Šûƒè1J$e42d0bc2-3e1d-4984-904b-4d76aaafc541
